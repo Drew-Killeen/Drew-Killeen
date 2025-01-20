@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Drew Killeen</h1>
-<h3 align="center">I build things for web and mobile</h3>
+<h1 align="center">Hi, I'm Drew Killeen</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 
